@@ -1,0 +1,80 @@
+.logo{
+	margin-left: 5px;
+	margin-top: -5px;
+}
+ul li{
+	list-style-type: none;
+	float: left;
+	padding:10px;
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	color: black;
+	text-decoration: none;
+}
+.test-btn{
+	border:1px solid #5A8ECC;
+	padding:20px;
+	border-radius: 5px;
+	background-color: #63A3ED;
+}
+.fa-arrow-right{
+	margin-left: 10px;
+}
+.footer{
+	text-align: center;
+}
+.nav{
+	background-color: #6F1387;
+}
+.header{
+	background-color: #550E68;
+	padding:10px;
+	color: white;
+}
+.footer{
+	background-color: #6F1387;
+	margin-bottom: -50px;
+}
+.footer p a{
+	color: white;
+}
+.test-btn-a{
+	text-decoration: none;
+	color: black;
+}
+.test-btn-a:hover{
+	text-decoration: none;
+}
+.test-btn:hover{
+	color: white;
+}
+.test-btn h5{
+	text-decoration: none;
+}
+.main{
+	background-color:white;
+}
+.wrapper{
+	background-color:white;
+}
+#age{
+	margin-left: 15px;
+}
+.begin:hover{
+	cursor: pointer;
+}
+#name{
+	margin-left: 15px;
+}
+span{
+	margin-left: 20px;
+}
+.question{
+	border:1px solid purple;
+	background-color: #8C1CA9;
+	color: white;
+}
